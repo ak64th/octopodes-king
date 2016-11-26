@@ -1,4 +1,12 @@
 *.py[cod]
+
+# PyCharm
 .idea
+
+# Unit test / coverage reports
 .tox
 .coverage
+htmlcov
+
+# Docs
+docs/_build
